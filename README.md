@@ -8,3 +8,5 @@ All Codes in Data Science from Scratch written by Joel Grus</br>
 # Table of Contents
 -  Introduction
 -  Python Crash Course
+-  Visualizing Data
+-  Linear Algebra
