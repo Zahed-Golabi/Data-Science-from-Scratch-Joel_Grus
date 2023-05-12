@@ -11,3 +11,4 @@ All Codes in Data Science from Scratch written by Joel Grus</br>
 -  Visualizing Data
 -  Linear Algebra
 -  Statistics
+-  Probability
