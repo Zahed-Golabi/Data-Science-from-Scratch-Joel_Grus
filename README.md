@@ -12,3 +12,4 @@ All Codes in Data Science from Scratch written by Joel Grus</br>
 -  Linear Algebra
 -  Statistics
 -  Probability
+-  Hypothesis and Inference
